@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/bin/Debug/netcoreapp3.1/03.HierarchicalInheritance
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/bin/Debug/netcoreapp3.1/03.HierarchicalInheritance.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/bin/Debug/netcoreapp3.1/03.HierarchicalInheritance.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/bin/Debug/netcoreapp3.1/03.HierarchicalInheritance.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/bin/Debug/netcoreapp3.1/03.HierarchicalInheritance.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/bin/Debug/netcoreapp3.1/03.HierarchicalInheritance.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/obj/Debug/netcoreapp3.1/03.HierarchicalInheritance.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/obj/Debug/netcoreapp3.1/03.HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/obj/Debug/netcoreapp3.1/03.HierarchicalInheritance.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/obj/Debug/netcoreapp3.1/03.HierarchicalInheritance.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/obj/Debug/netcoreapp3.1/03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/obj/Debug/netcoreapp3.1/03.HierarchicalInheritance.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/obj/Debug/netcoreapp3.1/03.HierarchicalInheritance.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/03.HierarchicalInheritance/03.HierarchicalInheritance/obj/Debug/netcoreapp3.1/03.HierarchicalInheritance.genruntimeconfig.cache

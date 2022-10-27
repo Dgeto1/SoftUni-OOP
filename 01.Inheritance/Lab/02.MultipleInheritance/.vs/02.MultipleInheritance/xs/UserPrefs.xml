@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{38DC0CC9-9647-49DD-B329-ECDF7E5D2FB4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.MultipleInheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.MultipleInheritance/Animal.cs">
+    <Files>
+      <File FileName="02.MultipleInheritance/02.MultipleInheritance.csproj" />
+      <File FileName="02.MultipleInheritance/Animal.cs" Line="8" Column="33" />
+      <File FileName="02.MultipleInheritance/Dog.cs" />
+      <File FileName="02.MultipleInheritance/Puppy.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02.MultipleInheritance" expanded="True">
+            <Node name="02.MultipleInheritance" expanded="True">
+              <Node name="Animal.cs" selected="True" />
+              <Node name="Dog.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

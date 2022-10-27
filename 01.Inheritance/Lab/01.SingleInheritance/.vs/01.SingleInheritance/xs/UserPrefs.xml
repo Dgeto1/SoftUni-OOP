@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3E0BBBDA-1716-4654-B556-502E29BE491D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01.SingleInheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="01.SingleInheritance/01.SingleInheritance.csproj">
+    <Files>
+      <File FileName="01.SingleInheritance/Program.cs" Line="9" Column="13" />
+      <File FileName="01.SingleInheritance/Animal.cs" Line="11" Column="1" />
+      <File FileName="01.SingleInheritance/Dog.cs" Line="12" Column="1" />
+      <File FileName="01.SingleInheritance/01.SingleInheritance.csproj" Line="6" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01.SingleInheritance" expanded="True">
+            <Node name="01.SingleInheritance" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

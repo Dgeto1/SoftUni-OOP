@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/bin/Debug/netcoreapp3.1/02.MultipleInheritance
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/bin/Debug/netcoreapp3.1/02.MultipleInheritance.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/bin/Debug/netcoreapp3.1/02.MultipleInheritance.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/bin/Debug/netcoreapp3.1/02.MultipleInheritance.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/bin/Debug/netcoreapp3.1/02.MultipleInheritance.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/bin/Debug/netcoreapp3.1/02.MultipleInheritance.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/obj/Debug/netcoreapp3.1/02.MultipleInheritance.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/obj/Debug/netcoreapp3.1/02.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/obj/Debug/netcoreapp3.1/02.MultipleInheritance.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/obj/Debug/netcoreapp3.1/02.MultipleInheritance.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/obj/Debug/netcoreapp3.1/02.MultipleInheritance.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/obj/Debug/netcoreapp3.1/02.MultipleInheritance.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/obj/Debug/netcoreapp3.1/02.MultipleInheritance.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/02.MultipleInheritance/02.MultipleInheritance/obj/Debug/netcoreapp3.1/02.MultipleInheritance.genruntimeconfig.cache

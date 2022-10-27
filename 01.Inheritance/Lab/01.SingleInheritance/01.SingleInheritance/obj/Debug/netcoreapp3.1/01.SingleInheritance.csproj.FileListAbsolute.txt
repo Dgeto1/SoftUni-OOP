@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/bin/Debug/netcoreapp3.1/01.SingleInheritance
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/bin/Debug/netcoreapp3.1/01.SingleInheritance.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/bin/Debug/netcoreapp3.1/01.SingleInheritance.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/bin/Debug/netcoreapp3.1/01.SingleInheritance.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/bin/Debug/netcoreapp3.1/01.SingleInheritance.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/bin/Debug/netcoreapp3.1/01.SingleInheritance.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/obj/Debug/netcoreapp3.1/01.SingleInheritance.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/obj/Debug/netcoreapp3.1/01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/obj/Debug/netcoreapp3.1/01.SingleInheritance.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/obj/Debug/netcoreapp3.1/01.SingleInheritance.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/obj/Debug/netcoreapp3.1/01.SingleInheritance.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/obj/Debug/netcoreapp3.1/01.SingleInheritance.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/obj/Debug/netcoreapp3.1/01.SingleInheritance.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/01.SingleInheritance/01.SingleInheritance/obj/Debug/netcoreapp3.1/01.SingleInheritance.genruntimeconfig.cache
