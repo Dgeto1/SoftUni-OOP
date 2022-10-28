@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9B9B22EE-B55C-49FA-9D59-07CFDA556506}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Zoo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bear.cs">
+    <Files>
+      <File FileName="Animal.cs" Line="6" Column="21" />
+      <File FileName="Reptile.cs" Line="4" Column="20" />
+      <File FileName="Mammal.cs" Line="4" Column="21" />
+      <File FileName="Lizard.cs" Line="4" Column="20" />
+      <File FileName="Snake.cs" Line="4" Column="20" />
+      <File FileName="Gorilla.cs" Line="4" Column="21" />
+      <File FileName="Bear.cs" Line="4" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zoo" expanded="True">
+            <Node name="Zoo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

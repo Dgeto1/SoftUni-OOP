@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FB583E37-110F-4433-B16F-DE630524A2BA}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.StackOfStrings/StackOfStrings.cs">
+    <Files>
+      <File FileName="05.StackOfStrings/Program.cs" Line="3" Column="22" />
+      <File FileName="05.StackOfStrings/05.StackOfStrings.csproj" Line="6" Column="31" />
+      <File FileName="05.StackOfStrings/StackOfStrings.cs" Line="14" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05.StackOfStrings" expanded="True">
+            <Node name="05.StackOfStrings" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05.StackOfStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

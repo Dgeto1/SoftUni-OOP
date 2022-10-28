@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/bin/Debug/netcoreapp3.1/Person
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/bin/Debug/netcoreapp3.1/Person.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/bin/Debug/netcoreapp3.1/Person.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/bin/Debug/netcoreapp3.1/Person.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/bin/Debug/netcoreapp3.1/Person.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/bin/Debug/netcoreapp3.1/Person.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/obj/Debug/netcoreapp3.1/Person.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/obj/Debug/netcoreapp3.1/Person.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/obj/Debug/netcoreapp3.1/Person.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/obj/Debug/netcoreapp3.1/Person.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/obj/Debug/netcoreapp3.1/Person.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/obj/Debug/netcoreapp3.1/Person.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/obj/Debug/netcoreapp3.1/Person.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Person/obj/Debug/netcoreapp3.1/Person.genruntimeconfig.cache

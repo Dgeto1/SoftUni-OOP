@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{04DCB9F0-C15D-432F-826C-35EDB8BEC125}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.RandomList/StartUp.cs">
+    <Files>
+      <File FileName="04.RandomList/Program.cs" Line="5" Column="12" />
+      <File FileName="04.RandomList/04.RandomList.csproj" Line="6" Column="37" />
+      <File FileName="04.RandomList/RandomList.cs" Line="19" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="04.RandomList" expanded="True">
+            <Node name="04.RandomList" expanded="True">
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.04.RandomList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

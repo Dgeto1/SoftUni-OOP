@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/bin/Debug/netcoreapp3.1/05.StackOfStrings
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/bin/Debug/netcoreapp3.1/05.StackOfStrings.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/bin/Debug/netcoreapp3.1/05.StackOfStrings.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/bin/Debug/netcoreapp3.1/05.StackOfStrings.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/bin/Debug/netcoreapp3.1/05.StackOfStrings.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/bin/Debug/netcoreapp3.1/05.StackOfStrings.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/obj/Debug/netcoreapp3.1/05.StackOfStrings.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/obj/Debug/netcoreapp3.1/05.StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/obj/Debug/netcoreapp3.1/05.StackOfStrings.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/obj/Debug/netcoreapp3.1/05.StackOfStrings.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/obj/Debug/netcoreapp3.1/05.StackOfStrings.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/obj/Debug/netcoreapp3.1/05.StackOfStrings.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/obj/Debug/netcoreapp3.1/05.StackOfStrings.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/obj/Debug/netcoreapp3.1/05.StackOfStrings.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C4D76D88-6AD9-439F-9314-AC1752B6A8EE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PlayersAndMonsters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BladeKnight.cs">
+    <Files>
+      <File FileName="StartUp.cs" Line="1" Column="1" />
+      <File FileName="Hero.cs" Line="17" Column="94" />
+      <File FileName="Elf.cs" Line="4" Column="19" />
+      <File FileName="Wizard.cs" Line="4" Column="22" />
+      <File FileName="Knight.cs" Line="4" Column="21" />
+      <File FileName="MuseElf.cs" Line="4" Column="22" />
+      <File FileName="DarkWizard.cs" Line="4" Column="37" />
+      <File FileName="DarkKnight.cs" Line="4" Column="37" />
+      <File FileName="SoulMaster.cs" Line="4" Column="41" />
+      <File FileName="BladeKnight.cs" Line="4" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlayersAndMonsters" expanded="True">
+            <Node name="PlayersAndMonsters" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

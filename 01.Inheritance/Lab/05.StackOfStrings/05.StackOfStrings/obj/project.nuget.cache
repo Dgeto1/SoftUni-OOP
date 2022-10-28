@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BNCr1QKIaUnZSthAWqf/3i976yNt6t3vH3ahxeRTW4I4I7zwrPz6IO7ONJ861YYfjD90kHcZw3UC78AzOWW7wQ==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Lab/05.StackOfStrings/05.StackOfStrings/05.StackOfStrings.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

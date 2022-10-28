@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s9xSmmGzxuuEMVRfQ8bs0YrlJt/97zdEdtNmYRjdaQdj0wHadR8Q26DKxNCyP1N06KxM+jpnwbdLwYU1ro4U2A==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/Zoo/Zoo.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

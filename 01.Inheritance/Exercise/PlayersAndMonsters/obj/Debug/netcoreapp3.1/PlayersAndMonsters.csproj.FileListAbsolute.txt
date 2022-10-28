@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/bin/Debug/netcoreapp3.1/PlayersAndMonsters
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/bin/Debug/netcoreapp3.1/PlayersAndMonsters.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/bin/Debug/netcoreapp3.1/PlayersAndMonsters.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/bin/Debug/netcoreapp3.1/PlayersAndMonsters.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/bin/Debug/netcoreapp3.1/PlayersAndMonsters.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/bin/Debug/netcoreapp3.1/PlayersAndMonsters.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/obj/Debug/netcoreapp3.1/PlayersAndMonsters.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/obj/Debug/netcoreapp3.1/PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/obj/Debug/netcoreapp3.1/PlayersAndMonsters.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/obj/Debug/netcoreapp3.1/PlayersAndMonsters.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/obj/Debug/netcoreapp3.1/PlayersAndMonsters.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/obj/Debug/netcoreapp3.1/PlayersAndMonsters.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/obj/Debug/netcoreapp3.1/PlayersAndMonsters.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/PlayersAndMonsters/obj/Debug/netcoreapp3.1/PlayersAndMonsters.genruntimeconfig.cache
