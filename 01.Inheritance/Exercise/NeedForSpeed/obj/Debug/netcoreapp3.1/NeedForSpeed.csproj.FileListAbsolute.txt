@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/bin/Debug/netcoreapp3.1/NeedForSpeed
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/bin/Debug/netcoreapp3.1/NeedForSpeed.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/bin/Debug/netcoreapp3.1/NeedForSpeed.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/bin/Debug/netcoreapp3.1/NeedForSpeed.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/bin/Debug/netcoreapp3.1/NeedForSpeed.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/bin/Debug/netcoreapp3.1/NeedForSpeed.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/obj/Debug/netcoreapp3.1/NeedForSpeed.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/obj/Debug/netcoreapp3.1/NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/obj/Debug/netcoreapp3.1/NeedForSpeed.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/obj/Debug/netcoreapp3.1/NeedForSpeed.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/obj/Debug/netcoreapp3.1/NeedForSpeed.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/obj/Debug/netcoreapp3.1/NeedForSpeed.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/obj/Debug/netcoreapp3.1/NeedForSpeed.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/01.Inheritance/Exercise/NeedForSpeed/obj/Debug/netcoreapp3.1/NeedForSpeed.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{9697631E-F9DF-4EC8-917E-6A8F5D360021}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Restaurant PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Coffee.cs">
+    <Files>
+      <File FileName="StartUp.cs" Line="1" Column="1" />
+      <File FileName="Product.cs" Line="6" Column="50" />
+      <File FileName="Beverage.cs" Line="8" Column="39" />
+      <File FileName="HotBeverage.cs" Line="4" Column="40" />
+      <File FileName="ColdBeverage.cs" Line="13" Column="9" />
+      <File FileName="Coffee.cs" Line="7" Column="23" />
+      <File FileName="Tea.cs" Line="4" Column="35" />
+      <File FileName="Food.cs" Line="8" Column="27" />
+      <File FileName="MainDish.cs" Line="4" Column="33" />
+      <File FileName="Dessert.cs" Line="8" Column="33" />
+      <File FileName="Starter.cs" Line="4" Column="21" />
+      <File FileName="Fish.cs" Line="8" Column="74" />
+      <File FileName="Soup.cs" Line="4" Column="32" />
+      <File FileName="Cake.cs" Line="10" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Restaurant" expanded="True">
+            <Node name="Restaurant" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
