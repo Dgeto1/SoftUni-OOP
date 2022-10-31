@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3DC0984D-81B7-4BE6-A3FC-98AC90B68B11}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.02.SalaryIncrease PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.SalaryIncrease/Person.cs">
+    <Files>
+      <File FileName="02.SalaryIncrease/Person.cs" Line="33" Column="55" />
+      <File FileName="02.SalaryIncrease/02.SalaryIncrease.csproj" />
+      <File FileName="02.SalaryIncrease/StartUp.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02.SalaryIncrease" expanded="True">
+            <Node name="02.SalaryIncrease" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

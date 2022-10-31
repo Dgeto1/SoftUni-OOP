@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{09FD7519-76FC-4DB0-A560-3B4D64926AB4}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.03.ValidationOfData PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.ValidationOfData/Person.cs">
+    <Files>
+      <File FileName="03.ValidationOfData/03.ValidationOfData.csproj" Line="6" Column="31" />
+      <File FileName="03.ValidationOfData/Person.cs" Line="26" Column="1" />
+      <File FileName="03.ValidationOfData/StartUp.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03.ValidationOfData" expanded="True">
+            <Node name="03.ValidationOfData" expanded="True">
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

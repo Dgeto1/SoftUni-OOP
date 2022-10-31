@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUN9QD0JH5Pp/EesPrrU6DiD5BpxZ4KTT9e8pO2s7Z8mw58f5btojKDpGAVUnVE0VIWCnEel7adD7JSCLbHXTQ==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/02.SalaryIncrease.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

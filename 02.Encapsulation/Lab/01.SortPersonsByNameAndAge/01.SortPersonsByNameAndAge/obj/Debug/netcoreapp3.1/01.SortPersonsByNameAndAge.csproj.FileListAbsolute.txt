@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/bin/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/bin/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/bin/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/bin/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/bin/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/bin/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/obj/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/obj/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/obj/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/obj/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/obj/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/obj/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/obj/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/01.SortPersonsByNameAndAge/01.SortPersonsByNameAndAge/obj/Debug/netcoreapp3.1/01.SortPersonsByNameAndAge.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/obj/Debug/netcoreapp3.1/02.SalaryIncrease.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/obj/Debug/netcoreapp3.1/02.SalaryIncrease.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/obj/Debug/netcoreapp3.1/02.SalaryIncrease.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/obj/Debug/netcoreapp3.1/02.SalaryIncrease.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/obj/Debug/netcoreapp3.1/02.SalaryIncrease.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/bin/Debug/netcoreapp3.1/02.SalaryIncrease
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/bin/Debug/netcoreapp3.1/02.SalaryIncrease.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/bin/Debug/netcoreapp3.1/02.SalaryIncrease.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/bin/Debug/netcoreapp3.1/02.SalaryIncrease.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/bin/Debug/netcoreapp3.1/02.SalaryIncrease.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/bin/Debug/netcoreapp3.1/02.SalaryIncrease.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/obj/Debug/netcoreapp3.1/02.SalaryIncrease.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/obj/Debug/netcoreapp3.1/02.SalaryIncrease.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/obj/Debug/netcoreapp3.1/02.SalaryIncrease.genruntimeconfig.cache

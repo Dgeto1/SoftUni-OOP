@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVj/89tcyv/4+r6dYtZihUIeyAdV0B2dwlQZg3K03fNbROtBrRYTX+OonZMszFlwbQ2RXdRITaegFJnvi9XrCg==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/04.FirstAndReserveTeam/04.FirstAndReserveTeam/04.FirstAndReserveTeam.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
