@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/bin/Debug/netcoreapp3.1/01.ClassBoxData
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/bin/Debug/netcoreapp3.1/01.ClassBoxData.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/bin/Debug/netcoreapp3.1/01.ClassBoxData.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/bin/Debug/netcoreapp3.1/01.ClassBoxData.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/bin/Debug/netcoreapp3.1/01.ClassBoxData.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/bin/Debug/netcoreapp3.1/01.ClassBoxData.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/obj/Debug/netcoreapp3.1/01.ClassBoxData.genruntimeconfig.cache

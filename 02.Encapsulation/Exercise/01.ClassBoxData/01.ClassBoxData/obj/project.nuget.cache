@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jOjVt5npSw4C/mldnc6ExRK52Tbva9RJJ5gX/kp80piLSuSbvA0T0Nyz39wKfUgVyNZd1gIcKXAnRL0J52anUQ==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/01.ClassBoxData/01.ClassBoxData/01.ClassBoxData.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
