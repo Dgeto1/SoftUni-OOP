@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/bin/Debug/netcoreapp3.1/PersonInfo
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/bin/Debug/netcoreapp3.1/PersonInfo.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/bin/Debug/netcoreapp3.1/PersonInfo.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/bin/Debug/netcoreapp3.1/PersonInfo.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/bin/Debug/netcoreapp3.1/PersonInfo.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/bin/Debug/netcoreapp3.1/PersonInfo.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/PersonInfo/PersonInfo/obj/Debug/netcoreapp3.1/PersonInfo.genruntimeconfig.cache

@@ -15,7 +15,6 @@ namespace Shapes
 
             circle.Draw();
             rect.Draw();
-            Console.Read();
         }
     }
 }
