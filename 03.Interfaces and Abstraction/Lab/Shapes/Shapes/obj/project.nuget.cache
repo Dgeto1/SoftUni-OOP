@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oqu5IYJ3DlR+GEzKlp5m3rKZSudUib8/4qAhHUzeZ7z505ChL1idgXKZ+8/O7gnalEM+Vl+D1vK21YePSDLJbg==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Shapes/Shapes/Shapes.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

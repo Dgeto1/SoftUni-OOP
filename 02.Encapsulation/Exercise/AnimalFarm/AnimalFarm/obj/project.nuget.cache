@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZDponKiBu20ZcKWbD92Bwv/2g6xZZr5q/w1M8S75dbXuqqaXUJDKRAyllv/FM5ESeaTFTrpZMQb4URKJ5fCfQ==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Exercise/AnimalFarm/AnimalFarm/AnimalFarm.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

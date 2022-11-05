@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9F3A2AD9-BD29-4728-B2DE-DF94C86E5B2B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AnimalFarm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimalFarm/Chicken.cs">
+    <Files>
+      <File FileName="AnimalFarm/Program.cs" Line="1" Column="1" />
+      <File FileName="AnimalFarm/Chicken.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnimalFarm" expanded="True">
+            <Node name="AnimalFarm" expanded="True">
+              <Node name="Chicken.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

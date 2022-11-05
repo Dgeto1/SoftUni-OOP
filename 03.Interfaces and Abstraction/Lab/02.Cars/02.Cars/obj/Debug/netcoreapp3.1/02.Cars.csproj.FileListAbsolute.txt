@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/bin/Debug/netcoreapp3.1/02.Cars
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/bin/Debug/netcoreapp3.1/02.Cars.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/bin/Debug/netcoreapp3.1/02.Cars.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/bin/Debug/netcoreapp3.1/02.Cars.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/bin/Debug/netcoreapp3.1/02.Cars.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/bin/Debug/netcoreapp3.1/02.Cars.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Lab/02.Cars/02.Cars/obj/Debug/netcoreapp3.1/02.Cars.genruntimeconfig.cache

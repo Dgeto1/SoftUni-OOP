@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{ECB9F18F-56D4-44AA-8E3D-AED6D365F41A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.Cars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.Cars/Tesla.cs">
+    <Files>
+      <File FileName="02.Cars/02.Cars.csproj" />
+      <File FileName="02.Cars/ICar.cs" />
+      <File FileName="02.Cars/IElectricCar.cs" />
+      <File FileName="02.Cars/Seat.cs" />
+      <File FileName="02.Cars/Tesla.cs" Line="12" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02.Cars" expanded="True">
+            <Node name="02.Cars" expanded="True">
+              <Node name="Tesla.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
