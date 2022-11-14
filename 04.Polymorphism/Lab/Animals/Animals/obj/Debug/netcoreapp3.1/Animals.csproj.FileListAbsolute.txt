@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/bin/Debug/netcoreapp3.1/Animals
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/bin/Debug/netcoreapp3.1/Animals.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/bin/Debug/netcoreapp3.1/Animals.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/bin/Debug/netcoreapp3.1/Animals.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/bin/Debug/netcoreapp3.1/Animals.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/bin/Debug/netcoreapp3.1/Animals.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Animals/Animals/obj/Debug/netcoreapp3.1/Animals.genruntimeconfig.cache

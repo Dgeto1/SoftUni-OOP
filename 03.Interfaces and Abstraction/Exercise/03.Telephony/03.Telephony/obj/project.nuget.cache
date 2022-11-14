@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L963YL8J4QkEHPtPh5FJmsz1oLnXMLV4CkSo1lzF18AydWk9gI5ANJ8AxJLOLur+4IljOuw6k4O5gVpopvCCrg==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/03.Telephony.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/bin/Debug/netcoreapp3.1/Operations
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/bin/Debug/netcoreapp3.1/Operations.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/bin/Debug/netcoreapp3.1/Operations.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/bin/Debug/netcoreapp3.1/Operations.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/bin/Debug/netcoreapp3.1/Operations.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/bin/Debug/netcoreapp3.1/Operations.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/obj/Debug/netcoreapp3.1/Operations.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/obj/Debug/netcoreapp3.1/Operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/obj/Debug/netcoreapp3.1/Operations.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/obj/Debug/netcoreapp3.1/Operations.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/obj/Debug/netcoreapp3.1/Operations.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/obj/Debug/netcoreapp3.1/Operations.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/obj/Debug/netcoreapp3.1/Operations.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Lab/Operations/Operations/obj/Debug/netcoreapp3.1/Operations.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{35C959FB-28F1-45D8-AFCA-D4C70EB339E6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Telephony/Core/Engine.cs">
+    <Files>
+      <File FileName="03.Telephony/Program.cs" Line="10" Column="13" />
+      <File FileName="03.Telephony/IStationaryPhone.cs" Line="6" Column="36" />
+      <File FileName="03.Telephony/ISmartphone.cs" Line="6" Column="29" />
+      <File FileName="03.Telephony/StationaryPhone.cs" Line="13" Column="45" />
+      <File FileName="03.Telephony/Models/Spartphone.cs" Line="27" Column="32" />
+      <File FileName="03.Telephony/Core/Engine.cs" Line="45" Column="20" />
+      <File FileName="03.Telephony/Core/Interfaces/IEngine.cs" Line="6" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03.Telephony" expanded="True">
+            <Node name="03.Telephony" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Engine.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.Telephony PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

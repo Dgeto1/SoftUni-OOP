@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{8A657BB4-9C8B-4D7F-9CB2-B4EDDA91DF50}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PersonInfo FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PersonInfo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PersonInfo/StartUp.cs">
+    <Files>
+      <File FileName="PersonInfo/Program.cs" Line="11" Column="28" />
+      <File FileName="PersonInfo/IPerson.cs" Line="7" Column="17" />
+      <File FileName="PersonInfo/Citizen.cs" Line="14" Column="35" />
+      <File FileName="PersonInfo/IIdentifiable.cs" Line="6" Column="19" />
+      <File FileName="PersonInfo/IBirthable.cs" Line="7" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PersonInfo" expanded="True">
+            <Node name="PersonInfo" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
