@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrRoq8zGAuuIJJExVnSM0XIC20FJbsIsijowSA83xaMzf1Inh4NCU4m7r6pvBr/F5yh37G+9YvRVkx3nLhqgaQ==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/04.BorderControl/04.BorderControl/04.BorderControl.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yYB85dHKGQFg4vitaFxHN9mP0EhcblEJi+R21qRJ/suu8oc3mcGHAUNG4biiuGzWSo1xuxW2L9tfq1aMSh+QyA==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/03.Raiding.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

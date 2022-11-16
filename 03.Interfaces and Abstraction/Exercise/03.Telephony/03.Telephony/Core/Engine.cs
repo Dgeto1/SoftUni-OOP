@@ -42,7 +42,10 @@ namespace _03.Telephony.Core
                     Console.WriteLine(this.smartphone.Browsing(url));
                 }
             }
-            catch ()
+            catch (Exception ex)
+            {
+
+            }
         }
     }
 }

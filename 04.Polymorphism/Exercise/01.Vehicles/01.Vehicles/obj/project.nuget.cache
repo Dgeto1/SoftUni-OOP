@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I19dZgKbeux4gUHYoQzOdPnxJ1HVcskyEq1ElDqhPMw4lf2u7k+t53nKnhmnfms3MKcJMMyx/2hDgScGS4l3BQ==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/01.Vehicles/01.Vehicles/01.Vehicles.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

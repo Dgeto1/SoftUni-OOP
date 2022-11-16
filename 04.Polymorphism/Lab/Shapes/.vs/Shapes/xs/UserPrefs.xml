@@ -5,18 +5,19 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Shapes/StartUp.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shapes/Shape.cs">
     <Files>
-      <File FileName="Shapes/Program.cs" Line="9" Column="13" />
       <File FileName="Shapes/Shape.cs" Line="12" Column="24" />
-      <File FileName="Shapes/Circle.cs" Line="26" Column="41" />
-      <File FileName="Shapes/Rectangle.cs" Line="30" Column="44" />
+      <File FileName="Shapes/Circle.cs" />
+      <File FileName="Shapes/Rectangle.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Shapes" expanded="True">
-            <Node name="Shapes" expanded="True" selected="True" />
+            <Node name="Shapes" expanded="True">
+              <Node name="Shape.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

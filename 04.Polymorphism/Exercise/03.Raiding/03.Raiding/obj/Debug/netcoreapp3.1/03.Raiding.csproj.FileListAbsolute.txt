@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/bin/Debug/netcoreapp3.1/03.Raiding
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/bin/Debug/netcoreapp3.1/03.Raiding.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/bin/Debug/netcoreapp3.1/03.Raiding.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/bin/Debug/netcoreapp3.1/03.Raiding.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/bin/Debug/netcoreapp3.1/03.Raiding.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/bin/Debug/netcoreapp3.1/03.Raiding.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/obj/Debug/netcoreapp3.1/03.Raiding.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/obj/Debug/netcoreapp3.1/03.Raiding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/obj/Debug/netcoreapp3.1/03.Raiding.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/obj/Debug/netcoreapp3.1/03.Raiding.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/obj/Debug/netcoreapp3.1/03.Raiding.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/obj/Debug/netcoreapp3.1/03.Raiding.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/obj/Debug/netcoreapp3.1/03.Raiding.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/03.Raiding/03.Raiding/obj/Debug/netcoreapp3.1/03.Raiding.genruntimeconfig.cache
