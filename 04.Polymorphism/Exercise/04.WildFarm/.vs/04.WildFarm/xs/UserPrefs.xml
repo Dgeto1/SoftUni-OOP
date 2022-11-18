@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0FBBE5DC-D882-4E08-907F-CD68B18404F6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.04.WildFarm PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.WildFarm/Models/Vegetable.cs">
+    <Files>
+      <File FileName="04.WildFarm/Program.cs" Line="5" Column="25" />
+      <File FileName="04.WildFarm/Animal.cs" Line="10" Column="39" />
+      <File FileName="04.WildFarm/Food.cs" Line="4" Column="28" />
+      <File FileName="04.WildFarm/Models/Mammal.cs" Line="4" Column="39" />
+      <File FileName="04.WildFarm/Models/Bird.cs" Line="4" Column="37" />
+      <File FileName="04.WildFarm/Models/Vegetable.cs" Line="4" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="04.WildFarm" expanded="True">
+            <Node name="04.WildFarm" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

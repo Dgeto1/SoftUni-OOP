@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/02.SalaryIncrease.csproj": {}
+    "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/04.WildFarm/04.WildFarm/04.WildFarm.csproj": {}
   },
   "projects": {
-    "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/02.SalaryIncrease.csproj": {
+    "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/04.WildFarm/04.WildFarm/04.WildFarm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/02.SalaryIncrease.csproj",
-        "projectName": "02.SalaryIncrease",
-        "projectPath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/02.SalaryIncrease.csproj",
+        "projectUniqueName": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/04.WildFarm/04.WildFarm/04.WildFarm.csproj",
+        "projectName": "04.WildFarm",
+        "projectPath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/04.WildFarm/04.WildFarm/04.WildFarm.csproj",
         "packagesPath": "/Users/hristopapanov/.nuget/packages/",
-        "outputPath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/obj/",
+        "outputPath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/04.WildFarm/04.WildFarm/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hristopapanov/.nuget/NuGet/NuGet.Config"

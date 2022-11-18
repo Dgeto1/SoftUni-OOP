@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5HBEasII5kLuqTwD/nwznTLoonW/M5yhRiPaXvfVVh0GwZmmxG+/wHSAhYSXqd5CsdwaW09c5z/onvX5DZ4fnA==",
+  "dgSpecHash": "0stszPIaawCqcAv7UPayjmZ33yYFsC+gcxXNSxrY/44pquXmkMOhrVSfSs8ixJ870KhT3MW9y1aQ+2qXnpg0Ng==",
   "success": true,
-  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/02.Encapsulation/Lab/02.SalaryIncrease/02.SalaryIncrease/02.SalaryIncrease.csproj",
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/04.Polymorphism/Exercise/04.WildFarm/04.WildFarm/04.WildFarm.csproj",
   "expectedPackageFiles": [
     "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
