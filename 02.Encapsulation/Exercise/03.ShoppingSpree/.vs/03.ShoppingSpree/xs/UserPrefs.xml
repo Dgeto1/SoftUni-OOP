@@ -4,19 +4,18 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="03.ShoppingSpree/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.ShoppingSpree/Product.cs">
     <Files>
-      <File FileName="../../../../../../Desktop/untitled folder/index.html" />
-      <File FileName="03.ShoppingSpree/Program.cs" Line="21" Column="22" />
-      <File FileName="03.ShoppingSpree/Person.cs" Line="60" Column="39" />
-      <File FileName="03.ShoppingSpree/Product.cs" Line="3" Column="2" />
+      <File FileName="03.ShoppingSpree/Program.cs" Line="28" Column="24" />
+      <File FileName="03.ShoppingSpree/Person.cs" />
+      <File FileName="03.ShoppingSpree/Product.cs" Line="30" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="03.ShoppingSpree" expanded="True">
             <Node name="03.ShoppingSpree" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Product.cs" selected="True" />
             </Node>
           </Node>
         </State>

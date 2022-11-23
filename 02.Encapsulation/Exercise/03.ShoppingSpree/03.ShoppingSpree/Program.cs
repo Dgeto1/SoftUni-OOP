@@ -11,23 +11,21 @@ class Program
 
         string[] segments = Console.ReadLine().Split(';');
         string[] seg = Console.ReadLine().Split(';');
-        Product product;
+
         for (int i = 0; i < seg.Length; i++)
         {
             string[] pr = seg[i].Split('=');
-            product = new Product(pr[0], decimal.Parse(pr[1]));
+            Product product = new Product(pr[0], decimal.Parse(pr[1]));
             products.Add(product);
         }
-        Person person;
         for (int i = 0; i < segments.Length; i++)
         {
             string[] pr = segments[i].Split('=');
-            person = new Person(pr[0], decimal.Parse(pr[1]));
+            Person person = new Person(pr[0], decimal.Parse(pr[1]));
             people.Add(person);
         }
 
         string command;
-        
         while ((command = Console.ReadLine()) != "END")
         {
             segments = Console.ReadLine().Split();
@@ -41,7 +39,7 @@ class Program
                 {
                     break;
                 }
-                else counter++;
+                counter++;
             }
             foreach (Product x in products)
             {
@@ -49,7 +47,7 @@ class Program
                 {
                     break;
                 }
-                else counter2++;
+                counter2++;
             }
             people[counter].Buying(products[counter2]);
         }

@@ -12,13 +12,13 @@ namespace _03.ShoppingSpree
         {
             Name = name;
             Money = money;
-            Bag = new List<Product>();
+            bag = new List<Product>();
         }
 
         public string Name
         {
             get { return name; }
-            private set
+            set
             {
                 if (string.IsNullOrEmpty(value)) throw new ArgumentException("Name cannot be empty");
                 else
@@ -31,7 +31,7 @@ namespace _03.ShoppingSpree
         public decimal Money
         {
             get { return money; }
-            private set
+            set
             {
                 if (value < 0) throw new ArgumentException("Money cannot be negative");
                 else
@@ -44,15 +44,15 @@ namespace _03.ShoppingSpree
         public List<Product> Bag
         {
             get { return bag; }
-            private set { bag = value; }
+            set { bag = value; }
         }
 
         public void Buying(Product product)
         {
-            if(Money>=product.Cost)
+            if(money>=product.Cost)
             {
                 bag.Add(product);
-                Money -= product.Cost;
+                money -= product.Cost;
                 Console.WriteLine($"{Name} bought {product.Name}");
             }
             else

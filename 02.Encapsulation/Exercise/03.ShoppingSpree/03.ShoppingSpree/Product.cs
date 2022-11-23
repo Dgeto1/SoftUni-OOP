@@ -15,7 +15,7 @@ namespace _03.ShoppingSpree
         public string Name
 		{
 			get { return name; }
-			private set
+			set
 			{
 				if (string.IsNullOrEmpty(value)) throw new ArgumentException("Name cannot be empty");
 				else
@@ -27,7 +27,7 @@ namespace _03.ShoppingSpree
 		public decimal Cost
 		{
 			get { return cost; }
-			private set { cost = value; }
+			set { cost = value; }
 		}
 	}
 }

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Formula1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Formula1/Models/Contracts/IPilot.cs">
+    <Files>
+      <File FileName="Formula1/Models/Contracts/IFormulaOneCar.cs" Line="1" Column="1" />
+      <File FileName="Formula1/Models/FormulaOneCar.cs" Line="31" Column="4" />
+      <File FileName="Formula1/Models/Ferrari.cs" Line="4" Column="41" />
+      <File FileName="Formula1/Models/Williams.cs" Line="4" Column="42" />
+      <File FileName="Formula1/Models/Pilot.cs" Line="59" Column="19" />
+      <File FileName="Formula1/Models/Contracts/IPilot.cs" Line="7" Column="30" />
+      <File FileName="Formula1/Models/Contracts/IRace.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Formula1" expanded="True">
+            <Node name="Formula1" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Contracts" expanded="True">
+                  <Node name="IPilot.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
