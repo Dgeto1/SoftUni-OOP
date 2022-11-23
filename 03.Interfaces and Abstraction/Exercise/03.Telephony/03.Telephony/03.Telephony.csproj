@@ -6,16 +6,4 @@
     <RootNamespace>_03.Telephony</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="Models\" />
-    <None Remove="Models\Interfaces\" />
-    <None Remove="Core\" />
-    <None Remove="Core\Interfaces\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Models\" />
-    <Folder Include="Models\Interfaces\" />
-    <Folder Include="Core\" />
-    <Folder Include="Core\Interfaces\" />
-  </ItemGroup>
 </Project>

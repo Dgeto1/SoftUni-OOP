@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/bin/Debug/netcoreapp3.1/03.Telephony
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/bin/Debug/netcoreapp3.1/03.Telephony.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/bin/Debug/netcoreapp3.1/03.Telephony.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/bin/Debug/netcoreapp3.1/03.Telephony.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/bin/Debug/netcoreapp3.1/03.Telephony.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/bin/Debug/netcoreapp3.1/03.Telephony.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/obj/Debug/netcoreapp3.1/03.Telephony.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/obj/Debug/netcoreapp3.1/03.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/obj/Debug/netcoreapp3.1/03.Telephony.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/obj/Debug/netcoreapp3.1/03.Telephony.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/obj/Debug/netcoreapp3.1/03.Telephony.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/obj/Debug/netcoreapp3.1/03.Telephony.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/obj/Debug/netcoreapp3.1/03.Telephony.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/03.Interfaces and Abstraction/Exercise/03.Telephony/03.Telephony/obj/Debug/netcoreapp3.1/03.Telephony.genruntimeconfig.cache
