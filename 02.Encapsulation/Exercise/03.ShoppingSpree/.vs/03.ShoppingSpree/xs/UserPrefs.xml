@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{486A1DB1-D796-4496-95EC-234BDC6123C5}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.ShoppingSpree/Program.cs">
+    <Files>
+      <File FileName="../../../../../../Desktop/untitled folder/index.html" />
+      <File FileName="03.ShoppingSpree/Program.cs" Line="21" Column="22" />
+      <File FileName="03.ShoppingSpree/Person.cs" Line="60" Column="39" />
+      <File FileName="03.ShoppingSpree/Product.cs" Line="3" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03.ShoppingSpree" expanded="True">
+            <Node name="03.ShoppingSpree" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.ShoppingSpree PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
