@@ -1,22 +1,20 @@
 ﻿using System;
 using System.Reflection;
 using Formula1.Models.Contracts;
+using Formula1.Utilities;
 
 namespace Formula1.Models
 {
-	public class Pilot
+	public class Pilot : IPilot
 	{
 		private string fullName;
 		private bool canRace;
 		private IFormulaOneCar car;
 		private int numberOfWins;
 
-        public Pilot(string fullName, bool canRace, IFormulaOneCar car, int numberOfWins)
+        public Pilot(string fullName)
         {
             FullName = fullName;
-            CanRace = canRace;
-            Car = car;
-            NumberOfWins = numberOfWins;
         }
 
         public string FullName
@@ -26,7 +24,7 @@ namespace Formula1.Models
             {
                 if (string.IsNullOrWhiteSpace(value) || value.Length < 5)
                 {
-                    throw new ArgumentException($"Invalid pilot name: {value}.");
+                    throw new ArgumentException(String.Format(ExceptionMessages.InvalidPilot, value));
                 }
                 fullName = value;
             }
@@ -35,7 +33,7 @@ namespace Formula1.Models
         public bool CanRace
         {
             get { return CanRace; }
-            private set { canRace = value = false; }
+            private set { canRace = value; }
         }
 
         public IFormulaOneCar Car
@@ -45,7 +43,7 @@ namespace Formula1.Models
             {
                 if(value==null)
                 {
-                    throw new ArgumentException("Pilot car can not be null.");
+                    throw new ArgumentException(String.Format(ExceptionMessages.InvalidCarForPilot));
                 }
             }
         }
@@ -56,7 +54,7 @@ namespace Formula1.Models
 
         public void AddCar(IFormulaOneCar car)
         {
-            car = ;
+            Car = car;
             CanRace = true;
         }
         public void WinRace()

@@ -1,35 +1,48 @@
 ﻿<Properties StartupConfiguration="{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Formula1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Formula1/Models/Contracts/IPilot.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Formula1/Core/Controller.cs">
     <Files>
-      <File FileName="Formula1/Models/Contracts/IFormulaOneCar.cs" Line="1" Column="1" />
-      <File FileName="Formula1/Models/FormulaOneCar.cs" Line="31" Column="4" />
-      <File FileName="Formula1/Models/Ferrari.cs" Line="4" Column="41" />
-      <File FileName="Formula1/Models/Williams.cs" Line="4" Column="42" />
-      <File FileName="Formula1/Models/Pilot.cs" Line="59" Column="19" />
-      <File FileName="Formula1/Models/Contracts/IPilot.cs" Line="7" Column="30" />
+      <File FileName="Formula1/Models/Contracts/IFormulaOneCar.cs" />
+      <File FileName="Formula1/Models/FormulaOneCar.cs" Line="9" Column="54" />
+      <File FileName="Formula1/Models/Ferrari.cs" Line="1" Column="1" />
+      <File FileName="Formula1/Models/Williams.cs" Line="1" Column="1" />
+      <File FileName="Formula1/Models/Pilot.cs" Line="8" Column="29" />
+      <File FileName="Formula1/Models/Contracts/IPilot.cs" />
       <File FileName="Formula1/Models/Contracts/IRace.cs" Line="1" Column="1" />
+      <File FileName="Formula1/Models/Race.cs" Line="86" Column="12" />
+      <File FileName="Formula1/Repositories/PilotRepository.cs" Line="28" Column="10" />
+      <File FileName="Formula1/Repositories/FormulaOneCarRepository.cs" Line="22" Column="64" />
+      <File FileName="Formula1/Repositories/RaceRepository.cs" Line="22" Column="57" />
+      <File FileName="Formula1/Core/Contracts/IController.cs" Line="1" Column="1" />
+      <File FileName="Formula1/Core/Engine.cs" Line="17" Column="13" />
+      <File FileName="Formula1/Core/Controller.cs" Line="25" Column="59" />
+      <File FileName="Formula1/Utilities/ExceptionMessages.cs" Line="1" Column="1" />
+      <File FileName="Formula1/Core/Contracts/IEngine.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Formula1" expanded="True">
             <Node name="Formula1" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="Contracts" expanded="True">
-                  <Node name="IPilot.cs" selected="True" />
-                </Node>
+              <Node name="Core" expanded="True">
+                <Node name="Contracts" expanded="True" />
+                <Node name="Controller.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="Contracts" expanded="True" />
+              </Node>
+              <Node name="Utilities" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Formula1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

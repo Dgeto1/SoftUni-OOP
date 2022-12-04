@@ -1,10 +1,12 @@
 ﻿using System;
 using Formula1.Core;
 using Formula1.Core.Contracts;
+using Formula1.Models.Contracts;
+using Formula1.Utilities;
 
 namespace Formula1.Models
 {
-	public abstract class FormulaOneCar
+	public abstract class FormulaOneCar : IFormulaOneCar
 	{
 		private string model;
 		private int horsepower;
@@ -24,7 +26,7 @@ namespace Formula1.Models
 			{
 				if(string.IsNullOrEmpty(value) || value.Length < 3)
 				{
-					throw new ArgumentException($"Invalid car model: {value}.");
+					throw new ArgumentException(String.Format(ExceptionMessages.InvalidF1CarModel, value));
 				}
 				model = value;
 			}
@@ -37,7 +39,7 @@ namespace Formula1.Models
 			{
 				if(value<900 || value>1050)
 				{
-					throw new Exception($"Invalid car horsepower: {value}.");
+					throw new ArgumentException(String.Format(ExceptionMessages.InvalidF1HorsePower, value));
                 }
 				horsepower = value;
 			}
@@ -50,7 +52,7 @@ namespace Formula1.Models
 			{
 				if(value<1.6 || value>2)
                 {
-					throw new ArgumentException($"Invalid car engine displacement: {value}.");
+					throw new ArgumentException(String.Format(ExceptionMessages.InvalidF1EngineDisplacement, value));
 				}
 				engineDisplacement = value;
 			}

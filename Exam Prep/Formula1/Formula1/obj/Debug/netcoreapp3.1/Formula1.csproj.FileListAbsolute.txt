@@ -3,3 +3,12 @@
 /Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/obj/Debug/netcoreapp3.1/Formula1.AssemblyInfoInputs.cache
 /Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/obj/Debug/netcoreapp3.1/Formula1.AssemblyInfo.cs
 /Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/obj/Debug/netcoreapp3.1/Formula1.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/bin/Debug/netcoreapp3.1/Formula1
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/bin/Debug/netcoreapp3.1/Formula1.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/bin/Debug/netcoreapp3.1/Formula1.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/bin/Debug/netcoreapp3.1/Formula1.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/bin/Debug/netcoreapp3.1/Formula1.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/bin/Debug/netcoreapp3.1/Formula1.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/obj/Debug/netcoreapp3.1/Formula1.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/obj/Debug/netcoreapp3.1/Formula1.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/Formula1/Formula1/obj/Debug/netcoreapp3.1/Formula1.genruntimeconfig.cache
