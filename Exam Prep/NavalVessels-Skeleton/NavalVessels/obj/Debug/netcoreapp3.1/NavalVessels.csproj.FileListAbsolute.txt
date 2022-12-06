@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/bin/Debug/netcoreapp3.1/NavalVessels
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/bin/Debug/netcoreapp3.1/NavalVessels.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/bin/Debug/netcoreapp3.1/NavalVessels.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/bin/Debug/netcoreapp3.1/NavalVessels.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/bin/Debug/netcoreapp3.1/NavalVessels.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/bin/Debug/netcoreapp3.1/NavalVessels.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/obj/Debug/netcoreapp3.1/NavalVessels.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/obj/Debug/netcoreapp3.1/NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/obj/Debug/netcoreapp3.1/NavalVessels.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/obj/Debug/netcoreapp3.1/NavalVessels.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/obj/Debug/netcoreapp3.1/NavalVessels.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/obj/Debug/netcoreapp3.1/NavalVessels.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/obj/Debug/netcoreapp3.1/NavalVessels.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/obj/Debug/netcoreapp3.1/NavalVessels.genruntimeconfig.cache

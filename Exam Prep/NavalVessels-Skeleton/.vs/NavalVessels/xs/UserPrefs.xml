@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{708AE138-1A78-402B-B8EB-136237294022}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavalVessels/Core/Controller.cs">
+    <Files>
+      <File FileName="NavalVessels/Models/Vessel.cs" Line="93" Column="24" />
+      <File FileName="NavalVessels/Models/Contracts/IVessel.cs" Line="1" Column="1" />
+      <File FileName="NavalVessels/Models/Battleship.cs" Line="20" Column="36" />
+      <File FileName="NavalVessels/Models/Submarine.cs" Line="47" Column="38" />
+      <File FileName="NavalVessels/Models/Contracts/Captain.cs" Line="14" Column="39" />
+      <File FileName="NavalVessels/Utilities/Messages/OutputMessages.cs" Line="1" Column="1" />
+      <File FileName="NavalVessels/Repositories/VesselRepository.cs" Line="23" Column="63" />
+      <File FileName="NavalVessels/Core/Controller.cs" Line="94" Column="59" />
+      <File FileName="NavalVessels/Core/Engine.cs" Line="21" Column="13" />
+      <File FileName="NavalVessels/Models/Contracts/ISubmarine.cs" Line="1" Column="1" />
+      <File FileName="NavalVessels/Models/Contracts/ICaptain.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NavalVessels" expanded="True">
+            <Node name="NavalVessels" expanded="True" selected="True">
+              <Node name="Core" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Utilities" expanded="True">
+                <Node name="Messages" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavalVessels PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

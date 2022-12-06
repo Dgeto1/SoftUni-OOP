@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2pbfDwPra5XHAl4JB7wCAg+d6RjbieswzkSd0RTQguZ2E2z9LTXxKJANMkkdSLEMlN0zq7tzQOrKC2U4hk7EwQ==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/NavalVessels-Skeleton/NavalVessels/NavalVessels.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
