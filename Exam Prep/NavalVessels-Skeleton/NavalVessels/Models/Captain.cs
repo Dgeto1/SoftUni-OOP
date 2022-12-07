@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 using NavalVessels.Models.Contracts;
 using NavalVessels.Utilities.Messages;
 
@@ -7,53 +8,71 @@ namespace NavalVessels.Models
 {
     public class Captain : ICaptain
     {
+        private const int CombatExperienceIncreaseStep = 10;
+
         private string fullName;
-        private int combatExperience;
-        private ICollection<IVessel> vessels;
+
+        private Captain()
+        {
+            this.CombatExperience = 0;
+            this.Vessels = new HashSet<IVessel>();
+        }
 
         public Captain(string fullName)
+            : this()
         {
-            FullName = fullName;
+            this.FullName = fullName;
         }
 
         public string FullName
         {
-            get { return fullName; }
+            get
+            {
+                return this.fullName;
+            }
             private set
             {
-                if(string.IsNullOrWhiteSpace(value))
+                if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidCaptainName));
+                    throw new ArgumentNullException(ExceptionMessages.InvalidCaptainName);
                 }
-                fullName = value;
+
+                this.fullName = value;
             }
         }
 
-        public int CombatExperience
-        {
-            get { return combatExperience; }
-            set { combatExperience = value; }
-        }
+        public int CombatExperience { get; private set; }
 
-        public ICollection<IVessel> Vessels => vessels;
+        public ICollection<IVessel> Vessels { get; private set; }
 
         public void AddVessel(IVessel vessel)
         {
-            if(vessel == null)
+            if (vessel == null)
             {
-                throw new NullReferenceException(string.Format(ExceptionMessages.InvalidVesselForCaptain));
+                throw new NullReferenceException(ExceptionMessages.InvalidVesselForCaptain);
             }
-            Vessels.Add(vessel);
+
+            this.Vessels.Add(vessel);
         }
 
         public void IncreaseCombatExperience()
         {
-            CombatExperience += 10;
+            this.CombatExperience += CombatExperienceIncreaseStep;
         }
 
         public string Report()
         {
-            return $"{FullName} has {CombatExperience} combat experience and commands {Vessels.Count} vessels.";
+            StringBuilder sb = new StringBuilder();
+            sb
+                .AppendLine($"{this.FullName} has {this.CombatExperience} combat experience and commands {this.Vessels.Count} vessels.");
+
+            foreach (IVessel vessel in this.Vessels)
+            {
+                sb
+                    .AppendLine(vessel.ToString());
+            }
+
+            return sb.ToString().TrimEnd();
         }
     }
 }

@@ -6,46 +6,48 @@ namespace NavalVessels.Models
 {
     public class Submarine : Vessel, ISubmarine
     {
-        public Submarine(string name, double mainWeaponCaliber, double speed, double armorThickness) : base(name, mainWeaponCaliber, speed, armorThickness)
+        private const double InitialArmorThickness = 200;
+        private const double MainWeaponCaliberChange = 40;
+        private const double SpeedChange = 4;
+
+        public Submarine(string name, double mainWeaponCaliber, double speed)
+           : base(name, mainWeaponCaliber, speed, InitialArmorThickness)
         {
+            this.SubmergeMode = false;
         }
 
-        private bool submergeMode;
-        public bool SubmergeMode
-        {
-            get { return submergeMode; }
-            private set { submergeMode = value; }
-        }
+        public bool SubmergeMode { get; private set; }
 
         public void ToggleSubmergeMode()
         {
-            submergeMode = !submergeMode;
-
-            if (submergeMode)
+            if (!this.SubmergeMode)
             {
-                MainWeaponCaliber += 40;
-                Speed -= 4;
+                this.MainWeaponCaliber += MainWeaponCaliberChange;
+                this.Speed -= SpeedChange;
             }
             else
             {
-                MainWeaponCaliber -= 40;
-                Speed += 4;
+                this.MainWeaponCaliber -= MainWeaponCaliberChange;
+                this.Speed += SpeedChange;
             }
+
+            this.SubmergeMode = !this.SubmergeMode;
         }
 
         public override void RepairVessel()
         {
-            if (ArmorThickness < 200)
-            {
-                ArmorThickness = 200;
-            }
+            this.ArmorThickness = InitialArmorThickness;
         }
 
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"*Submerge mode: {(submergeMode ? "ON" : "OFF")}");
-            return base.ToString();
+            string submergeModeOnOff = this.SubmergeMode ? "ON" : "OFF";
+
+            sb
+                .AppendLine(base.ToString())
+                .AppendLine($" *Submerge mode: {submergeModeOnOff}");
+            return sb.ToString().TrimEnd();
         }
     }
 }

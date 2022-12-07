@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{1F194741-0635-4B37-8EF9-A5B888AA123D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Heroes/Repositories/HeroRepository.cs">
+    <Files>
+      <File FileName="Heroes/Models/Weapons/Weapon.cs" Line="33" Column="4" />
+      <File FileName="Heroes/Models/Contracts/IWeapon.cs" Line="1" Column="1" />
+      <File FileName="Heroes/Models/Weapons/Mace.cs" Line="17" Column="23" />
+      <File FileName="Heroes/Models/Weapons/Claymore.cs" Line="17" Column="22" />
+      <File FileName="Heroes/Models/Heroes/Hero.cs" Line="18" Column="29" />
+      <File FileName="Heroes/Models/Heroes/Barbarian.cs" Line="4" Column="34" />
+      <File FileName="Heroes/Models/Heroes/Knight.cs" Line="4" Column="31" />
+      <File FileName="Heroes/Models/Map/Map.cs" Line="18" Column="13" />
+      <File FileName="Heroes/Repositories/HeroRepository.cs" Line="6" Column="46" />
+      <File FileName="Heroes/Repositories/Contracts/IRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Heroes" expanded="True">
+            <Node name="Heroes" expanded="True">
+              <Node name="IO" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="Contracts" expanded="True" />
+                <Node name="HeroRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Heroes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

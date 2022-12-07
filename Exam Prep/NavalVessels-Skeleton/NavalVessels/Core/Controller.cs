@@ -5,151 +5,202 @@ using NavalVessels.Core.Contracts;
 using NavalVessels.Models;
 using NavalVessels.Models.Contracts;
 using NavalVessels.Repositories;
+using NavalVessels.Repositories.Contracts;
 using NavalVessels.Utilities.Messages;
 
 namespace NavalVessels.Core
 {
     public class Controller : IController
     {
-        private VesselRepository vessels;
-        private List<ICaptain> captains;
+        private const double UnarmoredVesselArmorThickness = 0;
+
+        private readonly IRepository<IVessel> vessels;
+        private readonly ICollection<ICaptain> captains;
+
+        //private readonly IVesselFactory vesselFactory;
 
         public Controller()
         {
-            vessels = new VesselRepository();
-            captains = new List<ICaptain>();
+            this.vessels = new VesselRepository();
+            this.captains = new HashSet<ICaptain>();
+
+            //this.vesselFactory = new VesselFactory();
         }
+
         public string HireCaptain(string fullName)
         {
             ICaptain captain = new Captain(fullName);
-            if (captains.Any(c=>c.FullName==fullName))
+
+            if (this.captains.Any(c => c.FullName == fullName))
             {
-                return String.Format(OutputMessages.CaptainIsAlreadyHired, fullName);
+                return string.Format(OutputMessages.CaptainIsAlreadyHired, fullName);
             }
 
-            captains.Add(captain);
-            return String.Format(OutputMessages.SuccessfullyAddedCaptain, fullName);
+            this.captains.Add(captain);
+            return string.Format(OutputMessages.SuccessfullyAddedCaptain, fullName);
         }
 
         public string ProduceVessel(string name, string vesselType, double mainWeaponCaliber, double speed)
         {
-            IVessel ves = vessels.FindByName(name);
-            if (ves != null)
+            IVessel existingVessel = this.vessels.FindByName(name);
+            if (existingVessel != null)
             {
-                return String.Format(OutputMessages.VesselIsAlreadyManufactured, name.GetType().Name, name);
+                return string.Format(OutputMessages.VesselIsAlreadyManufactured, existingVessel.GetType().Name, name);
             }
 
-            Vessel vessel = null;
-            if(vesselType=="Submarine")
+            //In order to work with Judge!
+            //try
+            //{
+            //    IVessel producedVessel = this.vesselFactory.Produce(vesselType, name, mainWeaponCaliber, speed);
+            //    this.vessels.Add(producedVessel);
+            //    return string.Format(OutputMessages.SuccessfullyCreateVessel,
+            //        vesselType, name, mainWeaponCaliber, speed);
+            //}
+            //catch (InvalidOperationException ioe)
+            //{
+            //    return ioe.Message;
+            //}
+            //catch (Exception e)
+            //{
+            //    throw e.InnerException;
+            //}
+
+            IVessel producedVessel;
+            if (vesselType == "Battleship")
             {
-                vessel = new Submarine(name, mainWeaponCaliber, speed, 200);
+                producedVessel = new Battleship(name, mainWeaponCaliber, speed);
             }
-            else if(vesselType=="Battleship")
+            else if (vesselType == "Submarine")
             {
-                vessel = new Battleship(name, mainWeaponCaliber, speed, 300);
+                producedVessel = new Submarine(name, mainWeaponCaliber, speed);
             }
             else
             {
-                return String.Format(OutputMessages.InvalidVesselType);
+                return OutputMessages.InvalidVesselType;
             }
-            vessels.Add(vessel);
-            return String.Format(OutputMessages.SuccessfullyCreateVessel, vessel.GetType().Name, vessel.Name, vessel.MainWeaponCaliber, vessel.Speed);
+
+            this.vessels.Add(producedVessel);
+            return string.Format(OutputMessages.SuccessfullyCreateVessel,
+                vesselType, name, mainWeaponCaliber, speed);
         }
 
         public string AssignCaptain(string selectedCaptainName, string selectedVesselName)
         {
-            IVessel vessel = vessels.FindByName(selectedVesselName);
-            ICaptain captain = new Captain(selectedCaptainName);
-            
-            if(captains.Any(c=>c.FullName!=selectedCaptainName))
+            ICaptain captainToAssign = this.captains
+                .FirstOrDefault(c => c.FullName == selectedCaptainName);
+            if (captainToAssign == null)
             {
-                return String.Format(OutputMessages.CaptainNotFound, selectedCaptainName);
+                return string.Format(OutputMessages.CaptainNotFound, selectedCaptainName);
             }
-            if(vessel == null)
+
+            IVessel vessel = this.vessels
+                .FindByName(selectedVesselName);
+            if (vessel == null)
             {
-                return String.Format(OutputMessages.VesselNotFound, selectedVesselName);
+                return string.Format(OutputMessages.VesselNotFound, selectedVesselName);
             }
-            if(vessel.Captain.Vessels.Count>0)
+
+            if (vessel.Captain != null)
             {
-                return String.Format(OutputMessages.VesselOccupied, selectedVesselName);
+                return string.Format(OutputMessages.VesselOccupied, selectedVesselName);
             }
-            captain.AddVessel(vessel);
-            return String.Format(OutputMessages.SuccessfullyAssignCaptain, selectedCaptainName, selectedVesselName);
+
+            vessel.Captain = captainToAssign;
+            captainToAssign.AddVessel(vessel);
+
+            return string.Format(OutputMessages.SuccessfullyAssignCaptain, selectedCaptainName, selectedVesselName);
         }
 
+        //Be causious: Captain may not exist
         public string CaptainReport(string captainFullName)
         {
-            ICaptain captain = new Captain(captainFullName);
+            ICaptain captain = this.captains
+                .First(c => c.FullName == captainFullName);
 
             return captain.Report();
         }
 
+        //Be causious: Vessel may not exist
         public string VesselReport(string vesselName)
         {
-            IVessel vessel = vessels.FindByName(vesselName);
+            IVessel vessel = this.vessels
+                .FindByName(vesselName);
 
-            return vessel.ToString();
+            return vessel?.ToString();
         }
 
         public string ToggleSpecialMode(string vesselName)
         {
-            IVessel vessel = vessels.FindByName(vesselName);
-
-            if(vessel.GetType().Name=="Battleship")
+            IVessel vessel = this.vessels
+                .FindByName(vesselName);
+            if (vessel == null)
             {
-                var ves = new Battleship(vessel.Name, vessel.MainWeaponCaliber, vessel.Speed, vessel.ArmorThickness);
-                ves.ToggleSonarMode();
-                return String.Format(OutputMessages.ToggleBattleshipSonarMode, vesselName);
+                return string.Format(OutputMessages.VesselNotFound, vesselName);
             }
-            else if(vessel.GetType().Name=="Submarine")
+
+            if (vessel.GetType() == typeof(Battleship))
             {
-                var ves = new Submarine(vessel.Name, vessel.MainWeaponCaliber, vessel.Speed, vessel.ArmorThickness);
-                ves.ToggleSubmergeMode();
-                return String.Format(OutputMessages.ToggleSubmarineSubmergeMode, vesselName);
+                Battleship battleshipVessel = (Battleship)vessel;
+                battleshipVessel.ToggleSonarMode();
+
+                return string.Format(OutputMessages.ToggleBattleshipSonarMode, vesselName);
             }
             else
             {
-                return String.Format(OutputMessages.VesselNotFound, vesselName);
+                Submarine submarineVessel = (Submarine)vessel;
+                submarineVessel.ToggleSubmergeMode();
+
+                return string.Format(OutputMessages.ToggleSubmarineSubmergeMode, vesselName);
             }
         }
 
         public string ServiceVessel(string vesselName)
         {
-            IVessel vessel = vessels.FindByName(vesselName);
-            if(vessel==null)
+            IVessel vessel = this.vessels
+                .FindByName(vesselName);
+            if (vessel == null)
             {
-                return String.Format(OutputMessages.VesselNotFound, vesselName);
+                return string.Format(OutputMessages.VesselNotFound, vesselName);
             }
+
             vessel.RepairVessel();
-            return String.Format(OutputMessages.SuccessfullyRepairVessel, vesselName);
+            return string.Format(OutputMessages.SuccessfullyRepairVessel, vesselName);
         }
 
         public string AttackVessels(string attackingVesselName, string defendingVesselName)
         {
-            IVessel atackingVessel = vessels.FindByName(attackingVesselName);
-            IVessel defendingVessel = vessels.FindByName(defendingVesselName);
-
-            if(atackingVessel==null || defendingVessel==null)
+            IVessel attackingVessel = this.vessels
+                .FindByName(attackingVesselName);
+            if (attackingVessel == null)
             {
-                return String.Format(OutputMessages.VesselNotFound, attackingVesselName);
+                return string.Format(OutputMessages.VesselNotFound, attackingVesselName);
             }
-            if(atackingVessel.ArmorThickness==0 || defendingVessel.ArmorThickness==0)
+
+            IVessel defendingVessel = this.vessels
+                .FindByName(defendingVesselName);
+            if (defendingVessel == null)
             {
-                return String.Format(OutputMessages.AttackVesselArmorThicknessZero, attackingVesselName);
+                return string.Format(OutputMessages.VesselNotFound, defendingVesselName);
             }
-            atackingVessel.Attack(defendingVessel);
-            atackingVessel.Captain.IncreaseCombatExperience();
-            defendingVessel.Captain.IncreaseCombatExperience();
 
-            return String.Format(OutputMessages.SuccessfullyAttackVessel, defendingVesselName, attackingVesselName, defendingVessel.ArmorThickness);
+            if (attackingVessel.ArmorThickness == UnarmoredVesselArmorThickness)
+            {
+                return string.Format(OutputMessages.AttackVesselArmorThicknessZero, attackingVesselName);
+            }
+            if (defendingVessel.ArmorThickness == UnarmoredVesselArmorThickness)
+            {
+                return string.Format(OutputMessages.AttackVesselArmorThicknessZero, defendingVesselName);
+            }
 
+            attackingVessel.Attack(defendingVessel);
+            return string.Format(OutputMessages.SuccessfullyAttackVessel, defendingVesselName, attackingVesselName, defendingVessel.ArmorThickness);
         }
 
-        
 
-       
 
-       
+
+
+
     }
 }
 
