@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/bin/Debug/netcoreapp3.1/Book
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/bin/Debug/netcoreapp3.1/Book.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/bin/Debug/netcoreapp3.1/Book.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/bin/Debug/netcoreapp3.1/Book.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/bin/Debug/netcoreapp3.1/Book.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/bin/Debug/netcoreapp3.1/Book.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/obj/Debug/netcoreapp3.1/Book.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/obj/Debug/netcoreapp3.1/Book.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/obj/Debug/netcoreapp3.1/Book.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/obj/Debug/netcoreapp3.1/Book.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/obj/Debug/netcoreapp3.1/Book.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/obj/Debug/netcoreapp3.1/Book.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/obj/Debug/netcoreapp3.1/Book.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/BookSkeleton/Book/obj/Debug/netcoreapp3.1/Book.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/bin/Debug/netcoreapp3.1/RepairShop
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/bin/Debug/netcoreapp3.1/RepairShop.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/bin/Debug/netcoreapp3.1/RepairShop.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/bin/Debug/netcoreapp3.1/RepairShop.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/bin/Debug/netcoreapp3.1/RepairShop.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/bin/Debug/netcoreapp3.1/RepairShop.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/obj/Debug/netcoreapp3.1/RepairShop.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/obj/Debug/netcoreapp3.1/RepairShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/obj/Debug/netcoreapp3.1/RepairShop.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/obj/Debug/netcoreapp3.1/RepairShop.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/obj/Debug/netcoreapp3.1/RepairShop.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/obj/Debug/netcoreapp3.1/RepairShop.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/obj/Debug/netcoreapp3.1/RepairShop.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/RepairShop/RepairShop/obj/Debug/netcoreapp3.1/RepairShop.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{FF18BDBA-2ACE-4531-B30F-1341D9EC1132}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RepairShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RepairShop.Tests/RepairsShopTests.cs">
+    <Files>
+      <File FileName="RepairShop/Car.cs" Line="5" Column="55" />
+      <File FileName="RepairShop/Garage.cs" Line="98" Column="95" />
+      <File FileName="RepairShop.Tests/RepairsShopTests.cs" Line="115" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RepairShop" expanded="True">
+            <Node name="RepairShop" expanded="True" />
+            <Node name="RepairShop.Tests" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RepairShop" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
