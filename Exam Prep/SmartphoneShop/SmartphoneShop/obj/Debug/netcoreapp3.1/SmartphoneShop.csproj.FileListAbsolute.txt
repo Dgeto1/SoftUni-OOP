@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/bin/Debug/netcoreapp3.1/SmartphoneShop
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/bin/Debug/netcoreapp3.1/SmartphoneShop.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/bin/Debug/netcoreapp3.1/SmartphoneShop.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/bin/Debug/netcoreapp3.1/SmartphoneShop.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/bin/Debug/netcoreapp3.1/SmartphoneShop.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/bin/Debug/netcoreapp3.1/SmartphoneShop.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/obj/Debug/netcoreapp3.1/SmartphoneShop.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/obj/Debug/netcoreapp3.1/SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/obj/Debug/netcoreapp3.1/SmartphoneShop.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/obj/Debug/netcoreapp3.1/SmartphoneShop.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/obj/Debug/netcoreapp3.1/SmartphoneShop.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/obj/Debug/netcoreapp3.1/SmartphoneShop.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/obj/Debug/netcoreapp3.1/SmartphoneShop.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Exam Prep/SmartphoneShop/SmartphoneShop/obj/Debug/netcoreapp3.1/SmartphoneShop.genruntimeconfig.cache

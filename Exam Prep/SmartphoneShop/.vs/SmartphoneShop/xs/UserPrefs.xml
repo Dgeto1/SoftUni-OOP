@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3C9411AD-6841-444F-9243-416D78B7B43E}|Default">
+  <MonoDevelop.Ide.ItemProperties.SmartphoneShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartphoneShop.Tests/SmartphoneShopTests.cs">
+    <Files>
+      <File FileName="SmartphoneShop/Shop.cs" Line="36" Column="47" />
+      <File FileName="SmartphoneShop.Tests/SmartphoneShopTests.cs" Line="126" Column="44" />
+      <File FileName="SmartphoneShop/StartUp.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmartphoneShop" expanded="True">
+            <Node name="SmartphoneShop" expanded="True" />
+            <Node name="SmartphoneShop.Tests" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SmartphoneShop" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
