@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{90945C59-EA60-4D06-BBD1-27BBD552DACA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/Controller.cs">
+    <Files>
+      <File FileName="Core/Controller.cs" Line="182" Column="18" />
+      <File FileName="Utilities/Messages/OutputMessages.cs" Line="1" Column="1" />
+      <File FileName="Repositories/Contracts/IRepository.cs" />
+      <File FileName="Core/Engine.cs" />
+      <File FileName="Models/Delicacies/Gingerbread.cs" />
+      <File FileName="StartUp.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChristmasPastryShop" expanded="True">
+            <Node name="ChristmasPastryShop" expanded="True" selected="True">
+              <Node name="Core" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Booths" expanded="True">
+                  <Node name="Contracts" expanded="True" />
+                </Node>
+                <Node name="Cocktails" expanded="True" />
+                <Node name="Delicacies" expanded="True" />
+              </Node>
+              <Node name="Repositories" expanded="True" />
+              <Node name="Utilities" expanded="True">
+                <Node name="Messages" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ChristmasPastryShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

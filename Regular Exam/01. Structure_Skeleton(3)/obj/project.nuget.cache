@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L6O+g0YwDJvWy+QBMSjiKxgmTNNbU6Vu9Jb0s/5ajdyw1ki1C1AGIt1LgnKKjoTb2QEB1pGb/ej8jJRYpn1V1Q==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Regular Exam/01. Structure_Skeleton(3)/ChristmasPastryShop.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

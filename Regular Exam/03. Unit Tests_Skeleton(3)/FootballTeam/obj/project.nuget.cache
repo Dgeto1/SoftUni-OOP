@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7boPrPMzNxBwXWVwrWLJsxbouEG4Q/drO+DlgELezakgh5hjtrfCN+iox2DvR+5a4gPC0GW2VJfj1cYNLZrdQ==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-OOP/Regular Exam/03. Unit Tests_Skeleton(3)/FootballTeam/FootballTeam.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
